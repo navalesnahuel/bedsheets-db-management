@@ -1,0 +1,4 @@
+dbname=postgres
+user=postgres
+password=22
+port=5432
