@@ -9,7 +9,8 @@ The Management System for Bedsheets offers the following features:
 - Adding new customers to the database.
 - Placing new orders for bedsheets.
 - Managing stock levels by adding stock to existing products.
-- Bootstrap functionality to initialize database tables and populate them with predefined data.
+- Dummies Functionality to populate the tables with 'Fake Data'
+- Reset functionality to initialize database tables and populate them with predefined data.
 
 ## Setup Instructions
 
